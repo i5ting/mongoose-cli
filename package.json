@@ -1,6 +1,6 @@
 {
   "name": "mongoose-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moajs/moa-console.git"
+    "url": "https://github.com/i5ting/mongoose-cli.git"
   },
   "author": "i5ting",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moajs/moa-console/issues"
+    "url": "https://github.com/i5ting/mongoose-cli/issues"
   },
-  "homepage": "https://github.com/moajs/moa-console",
+  "homepage": "https://github.com/i5ting/mongoose-cli",
   "dependencies": {
     "bluebird": "^2.9.34",
     "mongoose": "^4.1.1",
