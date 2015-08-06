@@ -1,5 +1,9 @@
 # mongoose-cli
 
+mongoose best practice
+
+- mongoose + mongoosedao
+- bluebird
 
 ## Install 
 
