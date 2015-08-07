@@ -7,10 +7,12 @@ mongoose best practice
 
 ## Install 
 
+mongoose-cli依赖moa-console，所以需要先安装moa-console
+
 ```
+[sudo] npm install -g moa-console
 [sudo] npm install -g mongoose-cli
 ```
-
 
 ## Usage
 
